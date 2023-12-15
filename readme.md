@@ -6,8 +6,8 @@ The curated tables that I created as a result of this ELT process are used here 
 
 
 Here is a quick gif of the working app in motion.
-<!-- <img src="img/streamlit-run-2023-12-14-17-12-70.gif" alt="gif"> -->
-[link](img/streamlit-run-2023-12-14-17-12-70.webm)
+<img src="img/streamlit-run-2023-12-14-17-12-70.gif" alt="gif">
+<!-- [link](img/streamlit-run-2023-12-14-17-12-70.webm) -->
 
 
 As you can see, the user can add data filters from the left sidebar to specify regions and other business specs, then hover over a specific location point to see relevant tooltip information. 
